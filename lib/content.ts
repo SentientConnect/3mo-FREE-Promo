@@ -32,7 +32,7 @@ export const ecosystemCards = [
   {
     title: "AURA Genesis™",
     href: "/aura-genesis",
-    description: "The orchestration layer for decisions, workflows, accountability, and aligned execution.",
+    description: "Guided support for decisions, accountability, and meaningful progress.",
     icon: Orbit,
   },
   {
@@ -56,13 +56,13 @@ export const ecosystemCards = [
   {
     title: "Business Consulting",
     href: "/business-consulting",
-    description: "Systems design, automation strategy, client journey mapping, and execution architecture.",
+    description: "Business planning, operational clarity, client support, and follow-through.",
     icon: BriefcaseBusiness,
   },
   {
     title: "SentientOS™",
     href: "/sentientos",
-    description: "The parent operating layer that connects personal, operational, and future wearable intelligence.",
+    description: "Daily progress tools with future wearable experiences identified as planned.",
     icon: Network,
   },
   {
@@ -82,9 +82,9 @@ export const ecosystemCards = [
 export const pageData = {
   aura: {
     eyebrow: "AURA Genesis™",
-    title: "Orchestration intelligence for the human and the system.",
+    title: "Practical guidance for clarity and better follow-through.",
     description:
-      "AURA Genesis helps organize decisions, workflows, client journeys, operations, and personal accountability into one structured command layer.",
+      "AURA Genesis helps people and teams clarify priorities, follow through, and stay accountable.",
     icon: Orbit,
     features: [
       { title: "Decision Clarity", description: "Turn scattered information into prioritized next moves." },
@@ -158,13 +158,13 @@ export const pageData = {
   },
   sentientos: {
     eyebrow: "SentientOS™",
-    title: "The parent operating layer for human growth and connected execution.",
+    title: "Support for human development and daily progress.",
     description:
-      "SentientOS connects AURA Genesis, Sentient Connect, MBS Triangulation, behavioral insight, automation, and future wearable signals into one operating model.",
+      "SentientOS focuses on personal growth, practical accountability, and achievable next steps.",
     icon: Network,
     features: [
-      { title: "Operating Layer", description: "A central structure for personal, business, and behavioral execution." },
-      { title: "Connected Intelligence", description: "Bring context, workflows, insights, and decisions into one view." },
+      { title: "Everyday Progress", description: "Support for goals, personal growth, and daily accountability." },
+      { title: "Clarity", description: "Understand priorities and make responsible decisions." },
       { title: "Human-Centered Design", description: "Keep technology aligned with clarity, accountability, and values." },
       { title: "Wearables Coming Soon", description: "Prepare for body-state signals, behavior awareness, and personalized growth insights." },
       { title: "Decision Support", description: "Support better timing, prioritization, and alignment." },
