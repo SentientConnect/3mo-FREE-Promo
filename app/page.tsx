@@ -28,8 +28,8 @@ export default function HomePage() {
             <div className="absolute -bottom-24 -left-24 h-64 w-64 rounded-full bg-softgold/10 blur-3xl" />
             <div className="relative space-y-4">
               {[
-                "AURA Genesis™ orchestration",
-                "SentientOS™ operating layer",
+                "AURA Genesis™ guided support",
+                "SentientOS™ daily progress",
                 "MBS Triangulation™ framework",
                 "DISC-based personalization",
                 "Business and home services automation",
@@ -49,15 +49,15 @@ export default function HomePage() {
           <div>
             <Eyebrow>What Sentient Connect Is</Eyebrow>
             <h2 className="text-3xl font-semibold tracking-tight text-bone md:text-5xl">
-              The connective coaching and execution layer across the ecosystem.
+              Guidance for clearer decisions and practical progress.
             </h2>
           </div>
           <div className="space-y-5 text-base leading-8 text-bone/65">
             <p>
-              Sentient Connect is the peer-to-peer coaching framework that connects the full system together. It helps individuals and operators organize insight, daily action, behavior patterns, and business execution without losing the human at the center.
+              Sentient Connect supports individuals and teams with clarity, daily action, and accountable progress without losing the human at the center.
             </p>
             <p>
-              The platform is designed to bring structure to complexity: personal growth, business systems, behavioral clarity, client journeys, and accountability loops all working from the same operating model.
+              Our offerings focus on practical needs: personal development, behavioral understanding, client support, and responsible progress.
             </p>
           </div>
         </div>
@@ -66,7 +66,7 @@ export default function HomePage() {
       <SectionShell id="system" className="bg-black/45">
         <div className="mb-10 max-w-3xl">
           <Eyebrow>The System at a Glance</Eyebrow>
-          <h2 className="text-3xl font-semibold tracking-tight text-bone md:text-5xl">One ecosystem. Multiple connected layers.</h2>
+          <h2 className="text-3xl font-semibold tracking-tight text-bone md:text-5xl">Explore products and services.</h2>
           <p className="mt-5 text-base leading-8 text-bone/62">
             Each part of Sentient Connect is designed to support clearer decisions, stronger operations, and practical human development.
           </p>
@@ -94,7 +94,7 @@ export default function HomePage() {
         <div className="grid gap-6 lg:grid-cols-3">
           <div className="glass-panel rounded-[2rem] p-8 lg:col-span-2">
             <Eyebrow>AURA Genesis™</Eyebrow>
-            <h2 className="text-3xl font-semibold text-bone md:text-5xl">The orchestration intelligence.</h2>
+            <h2 className="text-3xl font-semibold text-bone md:text-5xl">Guidance that helps people move forward.</h2>
             <p className="mt-5 text-base leading-8 text-bone/64">
               AURA Genesis helps organize decisions, workflows, client journeys, business operations, and personal accountability. It is designed to bring the right information into the right structure so people can move with clarity.
             </p>
@@ -104,7 +104,7 @@ export default function HomePage() {
           </div>
           <FeatureCard
             title="From chaos to command"
-            description="AURA gives the ecosystem a single orchestration layer for tasks, signals, follow-up, and execution rhythm."
+            description="AURA helps organize priorities, follow-up, and next actions."
             icon={Brain}
           />
         </div>
@@ -126,7 +126,7 @@ export default function HomePage() {
           />
           <FeatureCard
             title="SentientOS + Wearables"
-            description="A parent operating layer with future wearable integration for behavioral signals and body-state awareness."
+            description="Personal development experiences, with wearable capabilities clearly marked as future plans."
             icon={Triangle}
             href="/sentientos"
           />
